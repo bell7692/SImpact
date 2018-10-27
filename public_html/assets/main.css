@@ -1,0 +1,28 @@
+html, body {
+    min-height: 100vh;
+    
+    font-family: 'Open Sans', sans-serif;
+
+    background: #fff7ee;
+    background: -webkit-linear-gradient(to right, #fff7ee, #efe1bb);
+    background: linear-gradient(to right, #fff7ee, #efe1bb);
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Bungee Inline', cursive;
+    font-size: 3em;
+}
+
+h2 {
+    font-family: 'Salsa', cursive;
+}
+
+.header-wrapper {
+    text-align: center;
+}
+
+fieldset {
+    border: none;
+    background: rgba(255,255,255,0.5);
+}
